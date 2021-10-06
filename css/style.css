@@ -1,0 +1,47 @@
+
+
+body{
+
+    font-family: 'Poppins', sans-serif
+
+}
+.container{
+display: flex;
+padding-left: 20px;
+
+
+}
+.Top-container{
+    background-image:url("./image/top-banner.png") ;
+    background-repeat: no-repeat;
+
+}
+.title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.span{
+    color: yellow;
+}
+.btn-hireme{
+   
+   background-color: turquoise;
+   border: radius 10px; ;
+   color: white;
+
+
+}
+.top-container p{
+    padding-right: 20px;
+
+}
+.top-container image{
+    padding-top: 30px;
+    padding: right 60px; ;
+}
+.Dreambig{
+    padding-left: 30px;
+    margin-left: 50px;
+
+}
+
